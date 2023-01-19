@@ -75,3 +75,30 @@ git config --global color.ui auto
 > 4. Este comando activa el coloreado automático para mayor legibilidad de las salidas de la consola al ejecutar unos comandos específicos.
 -------------------------------------------------------------------------
 
+# Guión práctica 4 (Git)
+
+```bash
+git reset --hard codigoCommit
+```
+> 1. Este comando resetea o repositorio local ao commit especificado co código. 
+-------------------------------------------------------------------------
+```bash
+git log --oneline --graph --decorate –all 
+```
+> 2. Comando para amosar o historial de cambios do repositorio.
+-------------------------------------------------------------------------
+```bash
+git remote remove origin 
+```
+> 3. Corta a conexión coa orixe (repositorio remoto).
+-------------------------------------------------------------------------
+```bash
+echo “texto a añadir” >> nombre del archivo
+```
+> 4. Engade unha liña a un arquivo de texto.
+-------------------------------------------------------------------------
+```bash
+git annotate nombre del archivo 
+```
+> 5. Amósanos un historial de cambios no arquivo por hora e data.
+-------------------------------------------------------------------------
