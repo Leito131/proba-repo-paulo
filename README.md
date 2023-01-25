@@ -135,3 +135,8 @@ git clean -f
 ```
 > 6. Desfai os cambios realizados para volver á version orixinal do repositorio.
 -------------------------------------------------------------------------
+```bash
+git restore nombredearchivo.archivo
+```
+> 7. Desfai os cambios realizados no arquivo gardado (no add, no commit).
+-------------------------------------------------------------------------
