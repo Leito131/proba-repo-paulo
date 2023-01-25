@@ -102,3 +102,16 @@ git annotate nombre del archivo
 ```
 > 5. Amósanos un historial de cambios no arquivo por hora e data.
 -------------------------------------------------------------------------
+
+# Guión práctica 5
+
+```bash
+git status
+```
+> 1. Amósanos o estado do proxecto cos últimos cambios realizados.
+-------------------------------------------------------------------------
+```bash
+git checkout nombredearchivo.archivo
+```
+>2. Permítenos eliminar os últimos cambios realizados.
+-------------------------------------------------------------------------
