@@ -138,5 +138,5 @@ git clean -f
 ```bash
 git restore nombredearchivo.archivo
 ```
-> 7. Desfai os cambios realizados no arquivo gardado (no add, no commit).
+> 7. Desfai os cambios realizados no arquivo gardado (non add, non commit).
 -------------------------------------------------------------------------
