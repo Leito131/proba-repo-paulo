@@ -120,3 +120,13 @@ git reset nombredearchivo.archivo
 ```
 > 3. Permítenos eliminar os cambios levados á Staging Area.
 -------------------------------------------------------------------------
+```bash
+git reset --soft nombredearchivo.archivo
+```
+> 4. Permítenos eliminar os cambios no último commit.
+-------------------------------------------------------------------------
+```bash
+git reset --mixed nombredearchivo.archivo
+```
+> 5. Permítenos eliminar os cambios no último commit e na Staging Area.
+-------------------------------------------------------------------------
