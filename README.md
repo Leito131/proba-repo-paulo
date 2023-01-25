@@ -113,5 +113,10 @@ git status
 ```bash
 git checkout nombredearchivo.archivo
 ```
->2. Permítenos eliminar os últimos cambios realizados.
+> 2. Permítenos eliminar os últimos cambios realizados.
+-------------------------------------------------------------------------
+```bash
+git reset nombredearchivo.archivo
+```
+> 3. Permítenos eliminar os cambios levados á Staging Area.
 -------------------------------------------------------------------------
