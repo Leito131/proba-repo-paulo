@@ -130,3 +130,8 @@ git reset --mixed nombredearchivo.archivo
 ```
 > 5. Permítenos eliminar os cambios no último commit e na Staging Area.
 -------------------------------------------------------------------------
+```bash
+git clean -f
+```
+> 6. Desfai os cambios realizados para volver á version orixinal do repositorio.
+-------------------------------------------------------------------------
