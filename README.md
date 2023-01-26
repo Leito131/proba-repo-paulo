@@ -113,7 +113,7 @@ git status
 ```bash
 git checkout nombredearchivo.archivo
 ```
-> 2. Permítenos eliminar os últimos cambios realizados.
+> 2. Permítenos eliminar os últimos cambios realizados. Dandolle o nome da rama na variable, permítenos movernos entre ramas.
 -------------------------------------------------------------------------
 ```bash
 git reset nombredearchivo.archivo
@@ -140,3 +140,24 @@ git restore nombredearchivo.archivo
 ```
 > 7. Desfai os cambios realizados no arquivo gardado (non add, non commit).
 -------------------------------------------------------------------------
+
+# Guión práctica 6
+
+```bash
+git branch nomeRama
+```
+> 1. Crea unha nova rama co nome especificado.
+--------------------------------------------------------------------------
+```bash
+git branch -d nomeRama
+```
+> 2. Borra a rama especificada.
+--------------------------------------------------------------------------
+```bash
+git merge nomeRama
+```
+> 3. Fusiona a rama especificada coa que estamos actualmente.
+--------------------------------------------------------------------------
+
+
+
