@@ -159,7 +159,7 @@ git merge nomeRama
 > 3. Fusiona a rama especificada coa que estamos actualmente.
 --------------------------------------------------------------------------
 ```bash
-git brach -av
+git branch -av
 ```
 > 4. Permítenos visualizar as ramas.
 --------------------------------------------------------------------------
